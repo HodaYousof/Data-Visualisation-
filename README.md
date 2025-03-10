@@ -1,2 +1,4 @@
 # Data-Visualisation-
-Cods for Plots
+Maps
+Waffels, clouds
+Histogramm 
